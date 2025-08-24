@@ -1,4 +1,4 @@
-<h1 align="center">Asta <br> ワリ</h1>
+<h1 align="center">Asta </h1>
 
 <p align="center">
   <img src="https://i.imgur.com/mp38BDD.gif" alt="asta gif" width="70%" />
@@ -21,5 +21,5 @@
 <br>
 
 <p align="center">
-  ⚡ trying to push limits like 
+  * trying to push limits * 
 </p>
